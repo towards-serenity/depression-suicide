@@ -1,30 +1,17 @@
 ---
 layout: page
 title: About Us
-description: TheReviewIndex aspires to simplify the discovery and research process for gadgets and help you find the right products.
+description: Towards Serenity is a project to promote self reflection, self development and realizing the value of one's being.
 ---
 
 
-## About Us
-
-&nbsp;
-
-We are TheReviewIndex.
-
-We thought reading reviews, on sites like Amazon, is a bit too tedious. Most products have hundreds, even thousands of reviews. It's impossible to make sense of that many reviews, let alone compare across products.
-
-So we built [The Review Index](https://thereviewindex.com) that uses Neural Networks to detect and quantify recurring patterns in reviews, enabling one to go through thousands of reviews in a few minutes.
-
-Also - we call out products with significant volumes of spam / fake reviews so that one doesn't end up trusting them. 
-
-We recently launched a public beta for Amazon (US) electronic / gadget / appliance reviews, and are iterating over the website and algorithms. We will expand to include other marketplaces soon.
-
-There is a lot of data waiting to be churned and presented - stay tuned! 
+## A step towards serenity
 
 
-&nbsp;
+We aim to provide you with a guide towards a life filled with peacfuly serenity.  You and I surely know that the struggles of daily life and the internal battles within our own selves can stretch beyound our abilities to deal with them.  Some of us reach out for someone to lighten the burdens of our daily life, while some of us reach for an external serum to numb our senses with the hope of winning the battle with our conflicted self.  A self filled with depression, anxiety and lack of self-worth will take a toll even on the strongest of us.
 
-&nbsp;
+Unfortantely, when all attempts at attaining happiness fail, some of us choose to completely part ways with this life, in hope of either a cessation of the pain or in hopes of a better after life.  You will find out from reading the words of our creator delivered to us in his holy book, The Quran, that the only relief from such a life is to turn to Him for guidance and to return to Him for eternal peace that starts in this life and extends to the after life.
 
-&nbsp;
+What do you have to lose?  Read it, reflect on its words, and contemplate on the benefits to your aching soul in this life; and prechance, you might find your key to serenity.
 
+I wish you a happy journey...
